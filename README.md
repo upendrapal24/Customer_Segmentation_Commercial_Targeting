@@ -2,14 +2,13 @@
 
 > **Commercial Analytics Case Study & Machine Learning Portfolio Project**  
 > **Author:** [Upendra Pal](https://github.com/upendrapal24)  
-> *Targeted Role Alignment:* **ZS Associates, DecisionTree Analytics, Accenture, Tredence, Flipkart**  
 > *Domain:* Commercial Strategy, Customer Analytics, RFM Scoring, K-Means Clustering
 
 ---
 
 ## 📌 Executive Summary
 
-In commercial and retail consulting analytics, treating all customers uniformly results in misallocated marketing budgets, churn among premium accounts, and uncaptured lifetime value.
+In commercial and retail analytics, treating all customers uniformly results in misallocated marketing budgets, churn among premium accounts, and uncaptured lifetime value.
 
 This project delivers an end-to-end **Customer Segmentation & Commercial Targeting Framework** built on **1,067,371 raw transaction logs** across **5,878 unique commercial customers**. By combining statistical **RFM (Recency, Frequency, Monetary) Quantile Scoring** with **Unsupervised K-Means Machine Learning**, we segment customers into actionable commercial tiers and formulate high-ROI retention strategies.
 
@@ -29,7 +28,7 @@ Analysis of **805,549 cleaned transactions** yielded **$17.74 Million in cumulat
 | 💤 **Hibernating / Churned** | 1,275 | **21.7%** | **$327,643** | **1.85%** | 467.8 | 1.2 | $256.98 | **Automated Emailing**: Standard low-cost marketing automation. |
 | 🚨 **Can't Lose Them** | 63 | **1.1%** | **$181,241** | **1.02%** | 422.2 | 1.6 | $2,876.83 | **Executive Outreach**: High-value survey outreach & contract renewals. |
 
-> 🔑 **Core Consulting Takeaway (Pareto Principle):** The top two segments (**Champions + Loyal Customers**) account for **45.99% of the customer base** but generate **83.65% ($14.84 Million) of total revenue**. Prioritizing 65% of retention spend on these top tiers preserves over four-fifths of enterprise value.
+> 🔑 **Core Strategic Takeaway (Pareto Principle):** The top two segments (**Champions + Loyal Customers**) account for **45.99% of the customer base** but generate **83.65% ($14.84 Million) of total revenue**. Prioritizing 65% of retention spend on these top tiers preserves over four-fifths of enterprise value.
 
 ---
 
@@ -110,12 +109,6 @@ RFM_Scores AS (
    ```bash
    python scripts/segmentation_pipeline.py
    ```
-
----
-
-## 👨‍💼 Resume Impact Bullet Point
-
-> *"Analyzed 1.06M+ retail transaction records in SQL & Python; constructed an RFM scoring and K-Means clustering model for 5,878 commercial clients, proving top 22% of customers generate 68.3% ($12.1M) of revenue and formulating a targeted retention strategy for $1.12M in at-risk accounts."*
 
 ---
 
