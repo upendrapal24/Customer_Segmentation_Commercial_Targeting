@@ -38,6 +38,10 @@ Analysis of **805,549 cleaned transactions** yielded **$17.74 Million in cumulat
 02_Customer_Segmentation_Commercial_Targeting/
 ├── README.md                          <-- Executive Summary & Commercial Strategy (Author: Upendra Pal)
 ├── requirements.txt                    <-- Python dependencies
+├── data/
+│   └── raw/                           <-- Sample raw transaction datasets (Pre-cleaning preview)
+│       ├── sample_raw_Year 2009-2010.csv
+│       └── sample_raw_Year 2010-2011.csv
 ├── sql/
 │   └── rfm_analysis.sql                <-- CTE-based SQL queries for RFM & NTILE score calculation
 ├── scripts/
