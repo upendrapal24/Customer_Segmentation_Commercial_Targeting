@@ -1,0 +1,8 @@
+Rule_Segment,Total_Customers,Total_Revenue,Avg_Recency_Days,Avg_Order_Frequency,Avg_Spend_Per_Customer,Customer_Share_%,Revenue_Share_%
+Champions (Top Tier),1300,12128115.56,20.0,17.1,9329.32,22.12,68.35
+Loyal Customers,1403,2713960.74,71.4,5.4,1934.4,23.87,15.3
+At Risk (High Frequency),353,1126230.9,344.2,7.6,3190.46,6.01,6.35
+Need Attention,1041,871599.57,288.5,2.1,837.27,17.71,4.91
+New / Promising,443,394638.61,28.1,1.5,890.83,7.54,2.22
+Hibernating / Churned,1275,327643.25,467.8,1.2,256.98,21.69,1.85
+Cant Lose Them (High Spend),63,181240.53,422.2,1.6,2876.83,1.07,1.02
